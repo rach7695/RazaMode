@@ -1,0 +1,10 @@
+body{
+    background: #607ec9;
+}
+
+.img500px{
+    width: 500px;
+    display: block;
+    margin:0 auto;
+}
+
